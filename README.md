@@ -1,9 +1,12 @@
-### Hi there 👋
+## About Me
+
+Data Scientist at [Infinia ML](https://infiniaml.com/) with experience in NLP, computer vision, time series classification, model explanability, and interpretable models.
+
+- 🔭 I’m currently working on projects in topic modeling, sentiment analysis, and document classification
+- ⚡ Fun fact: My GitHub bio contains code written in [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
 <!--
-**JEHoctor/JEHoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Other bullets I could add one day:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +14,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Selected Repos
+
+- [Advent of Code 2017 solutions in Rust](https://github.com/JEHoctor/AoC2017), a current solo project
+- [Advent of Code 2020 solutions in Python](https://github.com/alinajadebarnett/AoC2020), a project with [Alina Jade Barnett](https://github.com/alinajadebarnett). We list our completion time for each problem in the readme. I never expected we would be #80 on the global leaderboard for one problem!
