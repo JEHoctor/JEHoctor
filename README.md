@@ -27,7 +27,7 @@ Other bullets I could add one day:
 
 - [My isosurface-based vase generator](https://github.com/JEHoctor/isosurface-vase), a Python-and-VTK-powered 3D art project
 - [adventure-llm](https://github.com/JEHoctor/adventure-llm), playing a classic text adventure with a large language model API
-- [spelling-bee](https://github.com/JEHoctor/spelling-bee), a NYT Spelling Bee tool that uses tf-idf and logistic regression
+- [spelling-bee-cheat](https://github.com/JEHoctor/spelling-bee-cheat), a NYT Spelling Bee tool that uses tf-idf and logistic regression
 - [Advent of Code 2020 solutions in Python](https://github.com/alinajadebarnett/AoC2020), a project with [Alina Jade Barnett](https://github.com/alinajadebarnett). We list our completion time for each problem in the readme. I never expected we would be #80 on the global leaderboard for one problem!
 - [Banner image generator in Python](https://github.com/JEHoctor/LinkedIn-Cover-Image). This is what I used to make the banner for this readme
 <!-- old list entries
