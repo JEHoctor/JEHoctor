@@ -3,7 +3,7 @@
 
 ## About Me
 
-Data Scientist and Machine Learning Engineer with experience in natural language processing, computer vision, time series classification, model explanability, and interpretable models. *I’m on the job market, so check out my [resume](https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link) and Selected Repos (below) if you’re hiring.*
+Data Scientist and Machine Learning Engineer with experience in natural language processing, computer vision, time series classification, model explanability, and interpretable models. I work for Cargill as an ML Engineer. <!--*I’m on the job market, so check out my [resume](https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link) and Selected Repos (below) if you’re hiring.*-->
 
 - 🔭 I’m currently working on personal projects relating to large language models and fault-tolerant neural networks
 <!-- old versions of this bullet point
